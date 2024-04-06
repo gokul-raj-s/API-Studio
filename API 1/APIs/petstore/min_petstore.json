@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "description": "",
+        "description": "this is just description",
         "version": "1.0.6",
         "title": "Swagger Petstore"
     },

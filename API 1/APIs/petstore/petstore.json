@@ -2,7 +2,7 @@
 	"openapi": "3.0.1",
 	"info": {
 		"title": "Swagger Petstore - OpenAPI 3.0",
-		"description": "This is a sample Pet Store Server",
+		"description": "This is a sample Petstore API",
 		"termsOfService": "http://swagger.io/terms/",
 		"contact": {
 			"email": "apiteam@swagger.io"
