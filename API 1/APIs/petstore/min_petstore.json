@@ -3,7 +3,7 @@
     "info": {
         "description": "",
         "version": "1.0.6",
-        "title": "Swagger Petstore"
+        "title": "Swagger gora"
     },
     "paths": {
         "/pet": {
